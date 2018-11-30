@@ -10,7 +10,7 @@ public class Order {
 	}
 
 	public Order(int orderId, String orderType, double price) {
-		super();
+		
 		this.orderId = orderId;
 		this.orderType = orderType;
 		this.price = price;
