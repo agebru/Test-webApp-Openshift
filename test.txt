@@ -1,4 +1,0 @@
-something
-some text to be ignored
-other files added
-
